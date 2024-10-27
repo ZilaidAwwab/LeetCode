@@ -8,3 +8,4 @@ This repository contains optimized solutions to various LeetCode problems, focus
 |---| ----- | -------- | ---------- |
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Java](arrays\SetZeros.java)|Medium|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Java](arrays/PascalTriangle.java)|Easy|
+|167|[Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Java](arrays/TwoSumII.java)|Medium|
