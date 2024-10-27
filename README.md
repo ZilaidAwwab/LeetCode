@@ -7,3 +7,4 @@ This repository contains optimized solutions to various LeetCode problems, focus
 | No | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Java](arrays\SetZeros.java)|Medium|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Java](arrays/PascalTriangle.java)|Easy|
