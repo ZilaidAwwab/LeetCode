@@ -8,6 +8,7 @@ This repository contains optimized solutions to various LeetCode problems, focus
 |---| ----- | -------- | ---------- | -------------- | ----- | ----- |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Java](arrays\MaxArea.java) | Medium | Two Pointers | O(N) | 0(1) |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Java](arrays\ThreeSum.java) | Medium | Two Pointers | O(N^2) | 0(N) |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Java](arrays\Trap.java) | Hard | Two Pointers | O(N) | 0(1) |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Java](arrays\SetZeros.java) | Medium | In-Place Modification | O(N*M) | 0(1) |
 | 88 | [Merge Sorted Arrays](https://leetcode.com/problems/merge-sorted-array/) | [Java](arrays\Merge.java) | Easy | Two Pointers | O(N+M) | 0(1) |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Java](arrays/PascalTriangle.java) | Easy | Dynamic Programming | O(N²) | O(N²) |
