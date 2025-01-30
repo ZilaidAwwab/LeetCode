@@ -43,7 +43,14 @@ public class CheckInclusion {
         int[] array1 = new int[26];
         int[] array2 = new int[26];
         
+        // The first just prepare the array for first comparison, the second one then 
+        // iterates through the rest, that why 1st ends till x and 2nd starts from x 
+        // ending till 7
         for (int i = 0; i < x; i++) {
+            // Here s1.charAt(0) - 'a' gives numeric number
+            // So, e-a = 4 then array[4]++ means that add 1 to it, hence 0++ => 1
+
+
             // array1: freq of a = 1, b = 1 → [1, 1, 0, 0, ..., 0]
             array1[s1.charAt(i) - 'a']++;
             // array2: freq of e = 1, i = 1 → [0, 0, ..., 1 (at 'e'), ..., 1 (at 'i')]
