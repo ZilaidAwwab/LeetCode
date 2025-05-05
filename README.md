@@ -30,3 +30,4 @@ This repository contains optimized solutions to various LeetCode problems, focus
 | No | Title | Solution | Difficulty | Pattern Used | Time | Space |
 |---| ----- | -------- | ---------- | -------------- | ----- | ----- |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](strings\LengthOfLongestSubstring.java) | Medium | Sliding Window | O(N) | 0(1) |
+| 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Java](strings\CheckInclusion.java) | Medium | Sliding Window | O(N) | 0(1) |
